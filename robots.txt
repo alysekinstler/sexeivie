@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://cheaxeimah.creativehoneybee.design/sitemap.xml
